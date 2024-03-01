@@ -1,0 +1,117 @@
+body{
+    background-color: #222831;
+
+}
+
+
+
+.ul-items{
+    list-style-type: none;
+    display: flex;
+    
+}
+.nav{
+    display: flex;  
+    gap: 48px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 48px 96px;
+
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 10px rgba(255, 255, 255, 1);
+    height: 99px;
+    color: #fff;
+    margin: 0 96px;
+
+    
+}
+.btn{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 500px;
+}
+.btn1{
+    background-color: #00ADB5;
+    color: #fff;
+    
+}
+.btn2{
+    color: #fff;
+    background-color: #393E46;
+    left: 300px;
+}
+
+.buttons{
+    margin: 574px 877px 403px 180px;
+}
+
+.title{
+    font-size: 96px;
+    font-weight: 700;
+    font-family: 'Poppins';
+    color: #EEEEEE;
+    
+}
+.title2{
+    font-size: 96px;
+    font-weight: 700;
+    font-family: 'Poppins';
+    color: #00ADB5;
+}
+.hello{
+    margin-left: 180px;
+}
+.img2{
+
+    position: absolute;
+    top: 200px;
+    left: 72px;
+}
+.img{
+    position: absolute;
+
+}
+.img3{
+    position: absolute;
+    margin-left: 905px;
+}
+/* page 2 */
+.page2{
+    padding-bottom: 217px;
+}
+.title-wrapper{
+    margin-left: 96px;
+}
+.main-text{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Poppins';
+    color: #EEEEEE;
+    width: 389px;
+    margin-left: 96px;
+}
+.main-img{
+    float: right;
+    margin-right: 111px;
+    
+}
+.link{
+    color: #EEEEEE;
+    font-weight: 700;
+}
+/* page 3 */
+.page3{
+    background-image: url('/images/Group2376.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
